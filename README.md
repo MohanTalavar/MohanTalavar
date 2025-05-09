@@ -48,13 +48,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
 </p>
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohantalavar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohantalavar&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
