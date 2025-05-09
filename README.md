@@ -15,6 +15,7 @@
 
 - 💼 Currently working as a **Java Full Stack Developer at Tata Technologies**
 - 🌐 Developing **Junior G International Preschool** – a full-stack app hosted on AWS using **Spring Boot, React, JWT, S3, EC2, RDS, CloudFront, Route 53**
+- 🔗 Live project: [juniorg.site](https://juniorg.site)
 - 💡 Strong focus on **clean architecture**, **REST API development**, **JWT authentication**, and **DevOps best practices**
 - 🧠 Constantly learning **cloud infrastructure**, **Redux Toolkit**, **secure configurations**, and **event-driven backend design**
 - 📫 Reach me at: **mohan.talawar.20@gmail.com**
